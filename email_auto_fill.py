@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 24 16:09:01 2023
 
-@author:
+
 """
 
 from pywinauto.application import Application
