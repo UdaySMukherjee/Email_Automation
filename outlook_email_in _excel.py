@@ -16,7 +16,7 @@ client = gspread.authorize(creds)
 sheet = client.open('Email_List').sheet1
 
 # Load the user name and password
-#user, password = "udaysankar.mukherjee2021@iem.edu.in", "kiritO11AUG"
+#user, password = "udaysankar.mukherjee2021@iem.edu.in", ""
 
 # URL for Outlook connection
 outlook = win32.Dispatch("Outlook.Application")
