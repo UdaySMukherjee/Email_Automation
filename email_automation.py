@@ -12,7 +12,7 @@ from openpyxl import load_workbook
 import pandas as pd
 
 #Load the user name and passwd 
-user, password = "udaysankar2003@gmail.com","yxoqclmsdmqsjxeg"
+user, password = "udaysankar2003@gmail.com",""
 
 #URL for IMAP connection
 imap_url = 'imap.gmail.com'
