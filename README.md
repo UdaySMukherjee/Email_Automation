@@ -24,7 +24,7 @@ This repository contains Python code for automating email tasks, such as sending
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/email-automation.git
+git clone https://github.com/UdaySMukherjee/Email_Automation.git
 ```
 
 2. Install the required Python packages:
