@@ -41,8 +41,8 @@ pip install -r requirements.txt
 
 3. Run the scripts:
 
--To send emails: python send_emails.py
--To fetch unread emails: python fetch_emails.py
--To perform specific actions based on email content: python process_emails.py
+- To send emails: python send_emails.py
+- To fetch unread emails: python fetch_emails.py
+- To perform specific actions based on email content: python process_emails.py
 
 4. Follow the on-screen instructions and check the generated output.
