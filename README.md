@@ -25,13 +25,14 @@ This repository contains Python code for automating email tasks, such as sending
 
    ```shell
    git clone https://github.com/your-username/email-automation.git
-  ```
+   ```
 
 2. Install the required Python packages:
 
-   ```shell
+```shell
 pip install -r requirements.txt
-  ```
+```
+
 ## Usage
 
 1. Set up the necessary configurations, such as email account credentials, API keys, etc.
